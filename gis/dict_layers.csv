@@ -1,0 +1,17 @@
+layer,path,layer_label,group,is_base,geography,demographic,community,behavior,cancer,hex_code,hex_desc,default_field,name_field
+census_tract,tracts_influence_with_places_10_20.geojson,Census Tracts,core,1,1,1,1,1,0, #000000,,geoid,geoglvlnam
+city_boundaries,Cities_HMSA.geojson,City Boundaries,top cities,1,1,0,0,0,0, #76b7b2,,uniqueid,geoglvlnam
+coh_city_council_districts,COH_CITY_COUNCIL_DISTRICTS.geojson,COH City Council Districts,administrative,0,1,0,0,0,0, #ff9da7,,uniqueid,geoglvlnam
+educational_facility,Education_HMSA.geojson,Educational Facilities,administrative,0,1,0,0,0,0, #af7aa1,,uniqueid,name
+fqhc,Catchment_FQHC.geojson,FQHC Sites,administrative,0,1,0,0,0,0, #e15759,,uniqueid,site_name
+highway_roads,Highways_HMSA.geojson,Highways,administrative,0,1,0,0,0,0, #bab0ab,,uniqueid,label
+legislative_district,Legislative_District.geojson,Legislative Districts,administrative,0,1,0,0,0,0, #edc948,,uniqueid,uniqueid
+neighborhoods,Neighborhoods.geojson,Neighborhoods,neighborhoods,1,1,0,0,0,0, #f28e2b,,geoid,geography
+super_neighborhoods,Neighborhoods.geojson,Super Neighborhoods,neighborhoods,1,1,0,0,0,0,#f28e2b,,geoid,geography
+puma,puma_20_with_incidence.geojson,PUMA Areas,core,1,1,0,0,0,1, #59a14f,,geoid,geoglvlnam
+top_populous_places,Cities_Top_Populous.geojson,Top Populous Cities,top cities,0,1,0,0,0,0, #4e79a7,,geoid,geoglvlnam
+zip_code_areas,Zcta_HMSA.geojson,ZIP Code Areas,core,0,1,0,0,0,0, #9c755f,,geoid,geoglvlnam
+united_states,united_states_20_with_incidence.geojson,United States,core,0,1,0,0,0,1, #000000,,geoid,geoglvlnam
+county,county_20_with_incidence.geojson,County,core,1,1,0,0,0,1, #000000,,geoid,geoglvlnam
+ca,ca_20_with_incidence.geojson,Catchment Area,core,1,1,0,0,0,1, #000000,,geoid,geoglvlnam
+texas,texas_20_with_incidence.geojson,Texas,core,1,1,0,0,0,1, #000000,,geoid,geoglvlnam
